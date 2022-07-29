@@ -1,3 +1,5 @@
+// (C) https://github.com/francisrstokes/bewitched/blob/main/generate-bin.ts
+
 import * as fs from 'fs/promises';
 
 if (process.argv.length < 4) {
