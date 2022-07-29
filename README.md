@@ -7,7 +7,8 @@ Hexdump program written in typescript
 ts-node ./src/index.ts <binfile>
 ```
 
-Every `return` prints the next 16 lines (If no lines are available the program exits)
+Every `return` prints the next 16 lines (If no lines are available the program exits).
+
 `escape` exits the program
 
 ### Generate a random binary file
